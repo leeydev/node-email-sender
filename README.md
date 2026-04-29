@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/leeydev/node-email-sender)
+![Version](https://img.shields.io/github/package-json/v/leeydev/node-email-sender)
+
 # node-email-sender
 
 Professional Email Service built with Node.js.
